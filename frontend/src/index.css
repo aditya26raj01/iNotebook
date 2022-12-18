@@ -1,0 +1,9 @@
+i{
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 1.2rem;
+}
+i:hover{
+    background: rgb(211, 211, 211);
+}
